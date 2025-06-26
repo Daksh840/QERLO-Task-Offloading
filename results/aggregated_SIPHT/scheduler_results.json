@@ -1,0 +1,322 @@
+{
+    "FCFS": [
+        {
+            "dag": "Sipht_100.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.067531
+        },
+        {
+            "dag": "Sipht_1000.gml",
+            "makespan": 1210.0,
+            "energy": 16456.0,
+            "runtime_sec": 0.769108
+        },
+        {
+            "dag": "Sipht_100_0.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.04904
+        },
+        {
+            "dag": "Sipht_100_1.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.063581
+        },
+        {
+            "dag": "Sipht_100_2.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.06705
+        },
+        {
+            "dag": "Sipht_100_3.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.045057
+        },
+        {
+            "dag": "Sipht_100_4.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.076197
+        },
+        {
+            "dag": "Sipht_100_6.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.068039
+        },
+        {
+            "dag": "Sipht_100_7.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.053299
+        },
+        {
+            "dag": "Sipht_100_8.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.057489
+        },
+        {
+            "dag": "Sipht_100_9.gml",
+            "makespan": 150.0,
+            "energy": 1630.0,
+            "runtime_sec": 0.046388
+        },
+        {
+            "dag": "Sipht_30.gml",
+            "makespan": 70.0,
+            "energy": 478.0,
+            "runtime_sec": 0.034989
+        },
+        {
+            "dag": "Sipht_60.gml",
+            "makespan": 100.0,
+            "energy": 958.0,
+            "runtime_sec": 0.070328
+        }
+    ],
+    "HEFT": [
+        {
+            "dag": "Sipht_100.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.060146
+        },
+        {
+            "dag": "Sipht_1000.gml",
+            "makespan": 1210.000000000001,
+            "energy": 16.45600000000005,
+            "runtime_sec": 0.473415
+        },
+        {
+            "dag": "Sipht_100_0.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.046291
+        },
+        {
+            "dag": "Sipht_100_1.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.031271
+        },
+        {
+            "dag": "Sipht_100_2.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.04181
+        },
+        {
+            "dag": "Sipht_100_3.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.053242
+        },
+        {
+            "dag": "Sipht_100_4.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.052416
+        },
+        {
+            "dag": "Sipht_100_6.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.030394
+        },
+        {
+            "dag": "Sipht_100_7.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.048762
+        },
+        {
+            "dag": "Sipht_100_8.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.057341
+        },
+        {
+            "dag": "Sipht_100_9.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6420000000000012,
+            "runtime_sec": 0.037555
+        },
+        {
+            "dag": "Sipht_30.gml",
+            "makespan": 50.0,
+            "energy": 0.47000000000000025,
+            "runtime_sec": 0.026481
+        },
+        {
+            "dag": "Sipht_60.gml",
+            "makespan": 80.0,
+            "energy": 0.9740000000000006,
+            "runtime_sec": 0.057489
+        }
+    ],
+    "QIPSO": [
+        {
+            "dag": "Sipht_100.gml",
+            "makespan": 150.0,
+            "energy": 1640.0,
+            "runtime_sec": 4.561147
+        },
+        {
+            "dag": "Sipht_1000.gml",
+            "makespan": 1250.0,
+            "energy": 16454.0,
+            "runtime_sec": 36.654041
+        },
+        {
+            "dag": "Sipht_100_0.gml",
+            "makespan": 150.0,
+            "energy": 1666.0,
+            "runtime_sec": 3.311559
+        },
+        {
+            "dag": "Sipht_100_1.gml",
+            "makespan": 150.0,
+            "energy": 1664.0,
+            "runtime_sec": 3.129998
+        },
+        {
+            "dag": "Sipht_100_2.gml",
+            "makespan": 150.0,
+            "energy": 1596.0,
+            "runtime_sec": 4.724692
+        },
+        {
+            "dag": "Sipht_100_3.gml",
+            "makespan": 140.0,
+            "energy": 1662.0,
+            "runtime_sec": 3.246979
+        },
+        {
+            "dag": "Sipht_100_4.gml",
+            "makespan": 140.0,
+            "energy": 1634.0,
+            "runtime_sec": 3.279475
+        },
+        {
+            "dag": "Sipht_100_6.gml",
+            "makespan": 140.0,
+            "energy": 1650.0,
+            "runtime_sec": 3.478381
+        },
+        {
+            "dag": "Sipht_100_7.gml",
+            "makespan": 150.0,
+            "energy": 1664.0,
+            "runtime_sec": 4.468178
+        },
+        {
+            "dag": "Sipht_100_8.gml",
+            "makespan": 140.0,
+            "energy": 1626.0,
+            "runtime_sec": 3.137977
+        },
+        {
+            "dag": "Sipht_100_9.gml",
+            "makespan": 150.0,
+            "energy": 1638.0,
+            "runtime_sec": 4.154418
+        },
+        {
+            "dag": "Sipht_30.gml",
+            "makespan": 60.0,
+            "energy": 484.0,
+            "runtime_sec": 2.073922
+        },
+        {
+            "dag": "Sipht_60.gml",
+            "makespan": 100.0,
+            "energy": 986.0,
+            "runtime_sec": 3.949227
+        }
+    ],
+    "DQN": [
+        {
+            "dag": "Sipht_100.gml",
+            "makespan": 910.0,
+            "energy": 2086.0,
+            "runtime_sec": 1.4480066299438477
+        },
+        {
+            "dag": "Sipht_1000.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_0.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_1.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_2.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_3.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_4.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_6.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_7.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_8.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_100_9.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_30.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        },
+        {
+            "dag": "Sipht_60.gml",
+            "makespan": null,
+            "energy": null,
+            "runtime_sec": null
+        }
+    ]
+}

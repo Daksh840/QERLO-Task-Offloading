@@ -1,0 +1,106 @@
+{
+    "FCFS": [
+        {
+            "dag": "CyberShake_100.gml",
+            "makespan": 130.0,
+            "energy": 1684.0,
+            "runtime_sec": 0.061722
+        },
+        {
+            "dag": "CyberShake_1000.gml",
+            "makespan": 1260.0,
+            "energy": 16976.0,
+            "runtime_sec": 0.662789
+        },
+        {
+            "dag": "CyberShake_30.gml",
+            "makespan": 50.0,
+            "energy": 482.0,
+            "runtime_sec": 0.035379
+        },
+        {
+            "dag": "CyberShake_50.gml",
+            "makespan": 70.0,
+            "energy": 822.0,
+            "runtime_sec": 0.043171
+        }
+    ],
+    "HEFT": [
+        {
+            "dag": "CyberShake_100.gml",
+            "makespan": 129.99999999999997,
+            "energy": 1.6840000000000013,
+            "runtime_sec": 0.064459
+        },
+        {
+            "dag": "CyberShake_1000.gml",
+            "makespan": 1260.000000000001,
+            "energy": 16.96800000000006,
+            "runtime_sec": 0.745118
+        },
+        {
+            "dag": "CyberShake_30.gml",
+            "makespan": 50.0,
+            "energy": 0.48200000000000015,
+            "runtime_sec": 0.033141
+        },
+        {
+            "dag": "CyberShake_50.gml",
+            "makespan": 70.0,
+            "energy": 0.8220000000000004,
+            "runtime_sec": 0.029382
+        }
+    ],
+    "QIPSO": [
+        {
+            "dag": "CyberShake_100.gml",
+            "makespan": 140.0,
+            "energy": 1706.0,
+            "runtime_sec": 3.384065
+        },
+        {
+            "dag": "CyberShake_1000.gml",
+            "makespan": 1270.0,
+            "energy": 17012.0,
+            "runtime_sec": 32.192
+        },
+        {
+            "dag": "CyberShake_30.gml",
+            "makespan": 50.0,
+            "energy": 526.0,
+            "runtime_sec": 1.910995
+        },
+        {
+            "dag": "CyberShake_50.gml",
+            "makespan": 70.0,
+            "energy": 858.0,
+            "runtime_sec": 1.704
+        }
+    ],
+    "DQN": [
+        {
+            "dag": "CyberShake_100.gml",
+            "makespan": 220.0,
+            "energy": 1844.0,
+            "runtime_sec": 2.5297725200653076
+        },
+        {
+            "dag": "CyberShake_1000.gml",
+            "makespan": 9340.0,
+            "energy": 11868.0,
+            "runtime_sec": 0.6550121307373047
+        },
+        {
+            "dag": "CyberShake_30.gml",
+            "makespan": 100.0,
+            "energy": 520.0,
+            "runtime_sec": 0.03899788856506348
+        },
+        {
+            "dag": "CyberShake_50.gml",
+            "makespan": 140.0,
+            "energy": 854.0,
+            "runtime_sec": 0.05001091957092285
+        }
+    ]
+}

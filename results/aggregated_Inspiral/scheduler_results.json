@@ -1,0 +1,106 @@
+{
+    "FCFS": [
+        {
+            "dag": "Inspiral_100.gml",
+            "makespan": 140.0,
+            "energy": 1678.0,
+            "runtime_sec": 0.04719
+        },
+        {
+            "dag": "Inspiral_1000.gml",
+            "makespan": 1250.0,
+            "energy": 17000.0,
+            "runtime_sec": 0.860955
+        },
+        {
+            "dag": "Inspiral_30.gml",
+            "makespan": 60.0,
+            "energy": 498.0,
+            "runtime_sec": 0.014429
+        },
+        {
+            "dag": "Inspiral_50.gml",
+            "makespan": 80.0,
+            "energy": 836.0,
+            "runtime_sec": 0.038806
+        }
+    ],
+    "HEFT": [
+        {
+            "dag": "Inspiral_100.gml",
+            "makespan": 139.99999999999997,
+            "energy": 1.6700000000000013,
+            "runtime_sec": 0.054406
+        },
+        {
+            "dag": "Inspiral_1000.gml",
+            "makespan": 1250.000000000001,
+            "energy": 17.00000000000006,
+            "runtime_sec": 0.669929
+        },
+        {
+            "dag": "Inspiral_30.gml",
+            "makespan": 60.00000000000001,
+            "energy": 0.46800000000000025,
+            "runtime_sec": 0.021728
+        },
+        {
+            "dag": "Inspiral_50.gml",
+            "makespan": 80.0,
+            "energy": 0.8360000000000005,
+            "runtime_sec": 0.026014
+        }
+    ],
+    "QIPSO": [
+        {
+            "dag": "Inspiral_100.gml",
+            "makespan": 150.0,
+            "energy": 1698.0,
+            "runtime_sec": 4.688937
+        },
+        {
+            "dag": "Inspiral_1000.gml",
+            "makespan": 1290.0,
+            "energy": 17018.0,
+            "runtime_sec": 32.50099
+        },
+        {
+            "dag": "Inspiral_30.gml",
+            "makespan": 70.0,
+            "energy": 504.0,
+            "runtime_sec": 2.320055
+        },
+        {
+            "dag": "Inspiral_50.gml",
+            "makespan": 100.0,
+            "energy": 860.0,
+            "runtime_sec": 1.772977
+        }
+    ],
+    "DQN": [
+        {
+            "dag": "Inspiral_100.gml",
+            "makespan": 830.0,
+            "energy": 1774.0,
+            "runtime_sec": 2.1485257148742676
+        },
+        {
+            "dag": "Inspiral_1000.gml",
+            "makespan": 7610.0,
+            "energy": 17430.0,
+            "runtime_sec": 0.8749961853027344
+        },
+        {
+            "dag": "Inspiral_30.gml",
+            "makespan": 110.0,
+            "energy": 556.0,
+            "runtime_sec": 0.1289980411529541
+        },
+        {
+            "dag": "Inspiral_50.gml",
+            "makespan": 140.0,
+            "energy": 814.0,
+            "runtime_sec": 0.13299894332885742
+        }
+    ]
+}

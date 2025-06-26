@@ -1,0 +1,5 @@
+setup.py
+TaskOffloadingOptimization.egg-info/PKG-INFO
+TaskOffloadingOptimization.egg-info/SOURCES.txt
+TaskOffloadingOptimization.egg-info/dependency_links.txt
+TaskOffloadingOptimization.egg-info/top_level.txt

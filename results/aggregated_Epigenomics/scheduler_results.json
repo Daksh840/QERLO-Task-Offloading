@@ -1,0 +1,106 @@
+{
+    "FCFS": [
+        {
+            "dag": "Epigenomics_100.gml",
+            "makespan": 160.0,
+            "energy": 1678.0,
+            "runtime_sec": 0.039987
+        },
+        {
+            "dag": "Epigenomics_24.gml",
+            "makespan": 80.0,
+            "energy": 384.0,
+            "runtime_sec": 0.044227
+        },
+        {
+            "dag": "Epigenomics_46.gml",
+            "makespan": 100.0,
+            "energy": 772.0,
+            "runtime_sec": 0.036916
+        },
+        {
+            "dag": "Epigenomics_997.gml",
+            "makespan": 1280.0,
+            "energy": 16930.0,
+            "runtime_sec": 0.727962
+        }
+    ],
+    "HEFT": [
+        {
+            "dag": "Epigenomics_100.gml",
+            "makespan": 160.0,
+            "energy": 1.6720000000000013,
+            "runtime_sec": 0.040801
+        },
+        {
+            "dag": "Epigenomics_24.gml",
+            "makespan": 80.0,
+            "energy": 0.3200000000000001,
+            "runtime_sec": 0.039771
+        },
+        {
+            "dag": "Epigenomics_46.gml",
+            "makespan": 99.99999999999999,
+            "energy": 0.7540000000000003,
+            "runtime_sec": 0.020891
+        },
+        {
+            "dag": "Epigenomics_997.gml",
+            "makespan": 1280.000000000001,
+            "energy": 16.906000000000063,
+            "runtime_sec": 0.730897
+        }
+    ],
+    "QIPSO": [
+        {
+            "dag": "Epigenomics_100.gml",
+            "makespan": 170.0,
+            "energy": 1716.0,
+            "runtime_sec": 3.254988
+        },
+        {
+            "dag": "Epigenomics_24.gml",
+            "makespan": 80.0,
+            "energy": 426.0,
+            "runtime_sec": 1.75348
+        },
+        {
+            "dag": "Epigenomics_46.gml",
+            "makespan": 120.0,
+            "energy": 802.0,
+            "runtime_sec": 1.662997
+        },
+        {
+            "dag": "Epigenomics_997.gml",
+            "makespan": 1300.0,
+            "energy": 16960.0,
+            "runtime_sec": 32.163994
+        }
+    ],
+    "DQN": [
+        {
+            "dag": "Epigenomics_100.gml",
+            "makespan": 240.0,
+            "energy": 1556.0,
+            "runtime_sec": 2.519240140914917
+        },
+        {
+            "dag": "Epigenomics_24.gml",
+            "makespan": 100.0,
+            "energy": 360.0,
+            "runtime_sec": 0.04399275779724121
+        },
+        {
+            "dag": "Epigenomics_46.gml",
+            "makespan": 130.0,
+            "energy": 850.0,
+            "runtime_sec": 0.10800313949584961
+        },
+        {
+            "dag": "Epigenomics_997.gml",
+            "makespan": 9160.0,
+            "energy": 19328.0,
+            "runtime_sec": 0.7639975547790527
+        }
+    ]
+}

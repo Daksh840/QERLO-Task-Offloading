@@ -1,0 +1,17 @@
+dag,algorithm,makespan,energy,runtime_sec
+CyberShake_50.gml,FCFS,70.0,822.0,0.043171
+CyberShake_50.gml,HEFT,80.5,2.06,0.039197
+CyberShake_50.gml,QIPSO,84.0,1716.0,2.704
+CyberShake_50.gml,DQN,57.4,308.56,0.287746
+CyberShake_30.gml,FCFS,50.0,482.0,0.035379
+CyberShake_30.gml,HEFT,57.5,1.21,0.044083
+CyberShake_30.gml,QIPSO,60.0,1052.0,2.910995
+CyberShake_30.gml,DQN,41.0,180.93,0.03228
+CyberShake_100.gml,FCFS,130.0,1684.0,0.061722
+CyberShake_100.gml,HEFT,149.5,4.21,0.084797
+CyberShake_100.gml,QIPSO,168.0,3412.0,4.384065
+CyberShake_100.gml,DQN,106.6,632.13,0.150801
+CyberShake_1000.gml,FCFS,1260.0,16976.0,0.662789
+CyberShake_1000.gml,HEFT,1449.0,42.42,0.969653
+CyberShake_1000.gml,QIPSO,1524.0,34024.0,33.192
+CyberShake_1000.gml,DQN,1033.2,6372.36,0.973183
