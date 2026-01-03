@@ -1,0 +1,2576 @@
+[
+  {
+    "episode": 1,
+    "makespan": 20.0,
+    "reward": -80.83413181676812,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 2,
+    "makespan": 18.0,
+    "reward": -72.9914834558249,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 3,
+    "makespan": 17.0,
+    "reward": -70.76172939348376,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 4,
+    "makespan": 20.0,
+    "reward": -82.22775507362593,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 5,
+    "makespan": 22.0,
+    "reward": -86.55841320546376,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 6,
+    "makespan": 21.0,
+    "reward": -86.01601263502393,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 7,
+    "makespan": 17.0,
+    "reward": -77.98918620756885,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 8,
+    "makespan": 20.0,
+    "reward": -73.99766724875616,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 9,
+    "makespan": 18.0,
+    "reward": -77.22955554531967,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 10,
+    "makespan": 18.0,
+    "reward": -77.52280108373678,
+    "epsilon": 1.0
+  },
+  {
+    "episode": 11,
+    "makespan": 22.0,
+    "reward": -92.00481810450269,
+    "epsilon": 0.8761671489944468
+  },
+  {
+    "episode": 12,
+    "makespan": 19.0,
+    "reward": -79.046503264162,
+    "epsilon": 0.6546622849146564
+  },
+  {
+    "episode": 13,
+    "makespan": 18.0,
+    "reward": -73.09288603253003,
+    "epsilon": 0.4891563302522258
+  },
+  {
+    "episode": 14,
+    "makespan": 18.0,
+    "reward": -66.06936039481937,
+    "epsilon": 0.36549213379080925
+  },
+  {
+    "episode": 15,
+    "makespan": 17.0,
+    "reward": -66.75505661786258,
+    "epsilon": 0.2730916306328447
+  },
+  {
+    "episode": 16,
+    "makespan": 16.0,
+    "reward": -60.260105821139334,
+    "epsilon": 0.2040510091097933
+  },
+  {
+    "episode": 17,
+    "makespan": 17.0,
+    "reward": -63.13352575255848,
+    "epsilon": 0.15246462962720048
+  },
+  {
+    "episode": 18,
+    "makespan": 17.0,
+    "reward": -66.05755482923583,
+    "epsilon": 0.11391986439455339
+  },
+  {
+    "episode": 19,
+    "makespan": 16.0,
+    "reward": -60.37969253666768,
+    "epsilon": 0.08511964732676684
+  },
+  {
+    "episode": 20,
+    "makespan": 17.0,
+    "reward": -61.35722175308852,
+    "epsilon": 0.06360044755618212
+  },
+  {
+    "episode": 21,
+    "makespan": 17.0,
+    "reward": -59.78739698531599,
+    "epsilon": 0.04752154239805767
+  },
+  {
+    "episode": 22,
+    "makespan": 17.0,
+    "reward": -60.457652866519254,
+    "epsilon": 0.03550756446950318
+  },
+  {
+    "episode": 23,
+    "makespan": 18.0,
+    "reward": -62.605122676469385,
+    "epsilon": 0.02653085465945351
+  },
+  {
+    "episode": 24,
+    "makespan": 19.0,
+    "reward": -63.94412860012268,
+    "epsilon": 0.019823557584908447
+  },
+  {
+    "episode": 25,
+    "makespan": 19.0,
+    "reward": -63.566408798763604,
+    "epsilon": 0.01481194029993889
+  },
+  {
+    "episode": 26,
+    "makespan": 17.0,
+    "reward": -59.214722205895185,
+    "epsilon": 0.011067315970367352
+  },
+  {
+    "episode": 27,
+    "makespan": 18.0,
+    "reward": -62.81204356693047,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 28,
+    "makespan": 15.0,
+    "reward": -55.558111573983425,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 29,
+    "makespan": 14.0,
+    "reward": -55.23849618256989,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 30,
+    "makespan": 18.0,
+    "reward": -63.19471286267898,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 31,
+    "makespan": 17.0,
+    "reward": -60.261973476156925,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 32,
+    "makespan": 16.0,
+    "reward": -58.33593908428104,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 33,
+    "makespan": 16.0,
+    "reward": -58.00453068889054,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 34,
+    "makespan": 18.0,
+    "reward": -61.732170465410626,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 35,
+    "makespan": 15.0,
+    "reward": -56.39259265195776,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 36,
+    "makespan": 17.0,
+    "reward": -60.155742231002876,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 37,
+    "makespan": 16.0,
+    "reward": -58.948677170061416,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 38,
+    "makespan": 17.0,
+    "reward": -61.89961110739689,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 39,
+    "makespan": 15.0,
+    "reward": -56.6171236743431,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 40,
+    "makespan": 16.0,
+    "reward": -57.92083494993596,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 41,
+    "makespan": 16.0,
+    "reward": -57.648893436737474,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 42,
+    "makespan": 17.0,
+    "reward": -59.788818196238786,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 43,
+    "makespan": 15.0,
+    "reward": -55.42608726140283,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 44,
+    "makespan": 17.0,
+    "reward": -60.414336523541195,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 45,
+    "makespan": 16.0,
+    "reward": -57.921151798116284,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 46,
+    "makespan": 17.0,
+    "reward": -60.31978721338251,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 47,
+    "makespan": 15.0,
+    "reward": -56.3716897573233,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 48,
+    "makespan": 17.0,
+    "reward": -61.28414328294841,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 49,
+    "makespan": 17.0,
+    "reward": -58.61292759352132,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 50,
+    "makespan": 17.0,
+    "reward": -61.470721989593144,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 51,
+    "makespan": 15.0,
+    "reward": -57.63836120997243,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 52,
+    "makespan": 17.0,
+    "reward": -60.56206918440748,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 53,
+    "makespan": 17.0,
+    "reward": -61.444156747713336,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 54,
+    "makespan": 15.0,
+    "reward": -57.651669147585416,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 55,
+    "makespan": 16.0,
+    "reward": -57.354208586812874,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 56,
+    "makespan": 16.0,
+    "reward": -59.1202924795372,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 57,
+    "makespan": 15.0,
+    "reward": -56.9111759215743,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 58,
+    "makespan": 16.0,
+    "reward": -58.18090628308994,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 59,
+    "makespan": 16.0,
+    "reward": -57.915638570175915,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 60,
+    "makespan": 15.0,
+    "reward": -56.51014921916758,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 61,
+    "makespan": 16.0,
+    "reward": -58.214139880634576,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 62,
+    "makespan": 15.0,
+    "reward": -56.47482712697748,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 63,
+    "makespan": 16.0,
+    "reward": -57.987641862058155,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 64,
+    "makespan": 16.0,
+    "reward": -57.89822039332192,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 65,
+    "makespan": 15.0,
+    "reward": -56.38855023096733,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 66,
+    "makespan": 15.0,
+    "reward": -56.81363648891977,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 67,
+    "makespan": 16.0,
+    "reward": -58.436432908682335,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 68,
+    "makespan": 19.0,
+    "reward": -64.93502565881735,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 69,
+    "makespan": 14.0,
+    "reward": -55.78262319028362,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 70,
+    "makespan": 16.0,
+    "reward": -59.38152786452612,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 71,
+    "makespan": 15.0,
+    "reward": -57.080134628120824,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 72,
+    "makespan": 18.0,
+    "reward": -61.042239598754634,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 73,
+    "makespan": 16.0,
+    "reward": -57.35761869481722,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 74,
+    "makespan": 15.0,
+    "reward": -56.056127113508104,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 75,
+    "makespan": 16.0,
+    "reward": -57.56671989820649,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 76,
+    "makespan": 15.0,
+    "reward": -55.97567404281014,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 77,
+    "makespan": 16.0,
+    "reward": -58.389017206257336,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 78,
+    "makespan": 16.0,
+    "reward": -57.279569320380816,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 79,
+    "makespan": 15.0,
+    "reward": -56.28459053033917,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 80,
+    "makespan": 15.0,
+    "reward": -56.873865156929384,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 81,
+    "makespan": 16.0,
+    "reward": -57.72211788237455,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 82,
+    "makespan": 15.0,
+    "reward": -55.599432217838256,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 83,
+    "makespan": 15.0,
+    "reward": -56.360142734966445,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 84,
+    "makespan": 15.0,
+    "reward": -56.117852160028605,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 85,
+    "makespan": 15.0,
+    "reward": -56.409092798266784,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 86,
+    "makespan": 15.0,
+    "reward": -56.77983883475834,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 87,
+    "makespan": 16.0,
+    "reward": -57.55878044728705,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 88,
+    "makespan": 16.0,
+    "reward": -56.624650232174076,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 89,
+    "makespan": 16.0,
+    "reward": -57.70390518219335,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 90,
+    "makespan": 15.0,
+    "reward": -56.410972735560186,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 91,
+    "makespan": 16.0,
+    "reward": -57.83770301222498,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 92,
+    "makespan": 15.0,
+    "reward": -57.31926343135888,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 93,
+    "makespan": 15.0,
+    "reward": -57.2584284932135,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 94,
+    "makespan": 15.0,
+    "reward": -56.17056492168062,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 95,
+    "makespan": 15.0,
+    "reward": -56.21523171528068,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 96,
+    "makespan": 16.0,
+    "reward": -57.22806558061403,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 97,
+    "makespan": 15.0,
+    "reward": -55.914474956668954,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 98,
+    "makespan": 15.0,
+    "reward": -57.08894611406456,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 99,
+    "makespan": 15.0,
+    "reward": -56.00193015336745,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 100,
+    "makespan": 15.0,
+    "reward": -55.66058457239842,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 101,
+    "makespan": 16.0,
+    "reward": -56.76237523137884,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 102,
+    "makespan": 15.0,
+    "reward": -55.873589657554916,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 103,
+    "makespan": 16.0,
+    "reward": -56.90463269369283,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 104,
+    "makespan": 15.0,
+    "reward": -56.04969953269169,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 105,
+    "makespan": 15.0,
+    "reward": -55.97129917290044,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 106,
+    "makespan": 15.0,
+    "reward": -56.26649838951274,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 107,
+    "makespan": 15.0,
+    "reward": -55.76441151995026,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 108,
+    "makespan": 15.0,
+    "reward": -55.78913807001747,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 109,
+    "makespan": 16.0,
+    "reward": -57.650623050458265,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 110,
+    "makespan": 15.0,
+    "reward": -55.45514897310981,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 111,
+    "makespan": 15.0,
+    "reward": -55.7391744128562,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 112,
+    "makespan": 15.0,
+    "reward": -55.65658650745037,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 113,
+    "makespan": 15.0,
+    "reward": -55.42501109323069,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 114,
+    "makespan": 15.0,
+    "reward": -55.35958844952026,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 115,
+    "makespan": 15.0,
+    "reward": -55.90012692610542,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 116,
+    "makespan": 15.0,
+    "reward": -55.843568514734095,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 117,
+    "makespan": 16.0,
+    "reward": -56.69114624401348,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 118,
+    "makespan": 15.0,
+    "reward": -55.8317589119109,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 119,
+    "makespan": 15.0,
+    "reward": -55.35146772654407,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 120,
+    "makespan": 15.0,
+    "reward": -55.312356338701235,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 121,
+    "makespan": 15.0,
+    "reward": -55.88431168522382,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 122,
+    "makespan": 15.0,
+    "reward": -55.828340816051984,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 123,
+    "makespan": 15.0,
+    "reward": -55.331009843257235,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 124,
+    "makespan": 15.0,
+    "reward": -55.39159511788105,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 125,
+    "makespan": 15.0,
+    "reward": -55.68028521308564,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 126,
+    "makespan": 14.0,
+    "reward": -54.652563063221024,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 127,
+    "makespan": 15.0,
+    "reward": -55.56430814476471,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 128,
+    "makespan": 15.0,
+    "reward": -55.89709057046106,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 129,
+    "makespan": 15.0,
+    "reward": -55.51903750647157,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 130,
+    "makespan": 15.0,
+    "reward": -55.380643400821945,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 131,
+    "makespan": 15.0,
+    "reward": -55.93377977417963,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 132,
+    "makespan": 15.0,
+    "reward": -55.550713800646356,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 133,
+    "makespan": 15.0,
+    "reward": -55.73770688725752,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 134,
+    "makespan": 15.0,
+    "reward": -55.98513743295659,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 135,
+    "makespan": 14.0,
+    "reward": -53.21707211335665,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 136,
+    "makespan": 15.0,
+    "reward": -55.79217078241437,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 137,
+    "makespan": 15.0,
+    "reward": -55.46048593562839,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 138,
+    "makespan": 15.0,
+    "reward": -55.54438394209604,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 139,
+    "makespan": 15.0,
+    "reward": -54.753709085532535,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 140,
+    "makespan": 15.0,
+    "reward": -55.20270397363332,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 141,
+    "makespan": 16.0,
+    "reward": -56.6433857074103,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 142,
+    "makespan": 15.0,
+    "reward": -55.57096814518565,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 143,
+    "makespan": 15.0,
+    "reward": -55.26786243021619,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 144,
+    "makespan": 15.0,
+    "reward": -55.617284658498924,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 145,
+    "makespan": 15.0,
+    "reward": -56.21977599369377,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 146,
+    "makespan": 15.0,
+    "reward": -55.48511704127499,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 147,
+    "makespan": 15.0,
+    "reward": -55.28063638966895,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 148,
+    "makespan": 15.0,
+    "reward": -55.6085069549885,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 149,
+    "makespan": 15.0,
+    "reward": -55.77378382896384,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 150,
+    "makespan": 15.0,
+    "reward": -55.37255189972849,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 151,
+    "makespan": 15.0,
+    "reward": -55.00373416657991,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 152,
+    "makespan": 15.0,
+    "reward": -55.99650238439246,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 153,
+    "makespan": 15.0,
+    "reward": -55.89221967028665,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 154,
+    "makespan": 15.0,
+    "reward": -55.62353309574139,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 155,
+    "makespan": 16.0,
+    "reward": -57.894324813425925,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 156,
+    "makespan": 15.0,
+    "reward": -55.79628688782947,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 157,
+    "makespan": 15.0,
+    "reward": -55.89904052952564,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 158,
+    "makespan": 14.0,
+    "reward": -54.85488662331361,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 159,
+    "makespan": 15.0,
+    "reward": -55.61453573885424,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 160,
+    "makespan": 15.0,
+    "reward": -55.09247420011391,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 161,
+    "makespan": 15.0,
+    "reward": -55.80444821674916,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 162,
+    "makespan": 15.0,
+    "reward": -55.35214944887247,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 163,
+    "makespan": 14.0,
+    "reward": -53.96189089315214,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 164,
+    "makespan": 15.0,
+    "reward": -55.48309037204803,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 165,
+    "makespan": 15.0,
+    "reward": -55.55284924892361,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 166,
+    "makespan": 16.0,
+    "reward": -57.094022317075044,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 167,
+    "makespan": 15.0,
+    "reward": -55.506550153100704,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 168,
+    "makespan": 15.0,
+    "reward": -55.60754830556826,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 169,
+    "makespan": 14.0,
+    "reward": -53.8433668967467,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 170,
+    "makespan": 15.0,
+    "reward": -54.97460099262991,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 171,
+    "makespan": 15.0,
+    "reward": -55.46678338104321,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 172,
+    "makespan": 15.0,
+    "reward": -55.50453788266279,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 173,
+    "makespan": 15.0,
+    "reward": -55.18541554788848,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 174,
+    "makespan": 15.0,
+    "reward": -55.88961150773306,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 175,
+    "makespan": 15.0,
+    "reward": -55.27884590023639,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 176,
+    "makespan": 15.0,
+    "reward": -55.52631264308923,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 177,
+    "makespan": 15.0,
+    "reward": -55.50949161502688,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 178,
+    "makespan": 14.0,
+    "reward": -53.58009896490996,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 179,
+    "makespan": 14.0,
+    "reward": -53.72673403410106,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 180,
+    "makespan": 15.0,
+    "reward": -55.78223913275671,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 181,
+    "makespan": 14.0,
+    "reward": -53.696815984267424,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 182,
+    "makespan": 15.0,
+    "reward": -55.11468139972747,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 183,
+    "makespan": 15.0,
+    "reward": -55.892223056492774,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 184,
+    "makespan": 15.0,
+    "reward": -55.99964978444315,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 185,
+    "makespan": 15.0,
+    "reward": -54.81053745814038,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 186,
+    "makespan": 14.0,
+    "reward": -53.67361633753467,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 187,
+    "makespan": 15.0,
+    "reward": -55.431251157793376,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 188,
+    "makespan": 15.0,
+    "reward": -55.33067730370366,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 189,
+    "makespan": 14.0,
+    "reward": -53.9823243692033,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 190,
+    "makespan": 15.0,
+    "reward": -55.6969210661758,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 191,
+    "makespan": 15.0,
+    "reward": -55.4280951669646,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 192,
+    "makespan": 15.0,
+    "reward": -55.07497244580438,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 193,
+    "makespan": 14.0,
+    "reward": -54.03169688470936,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 194,
+    "makespan": 15.0,
+    "reward": -54.95630284850053,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 195,
+    "makespan": 15.0,
+    "reward": -55.736517173264964,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 196,
+    "makespan": 14.0,
+    "reward": -54.17252913330521,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 197,
+    "makespan": 15.0,
+    "reward": -55.52818396464272,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 198,
+    "makespan": 15.0,
+    "reward": -56.07843188377532,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 199,
+    "makespan": 14.0,
+    "reward": -53.750283266285216,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 200,
+    "makespan": 15.0,
+    "reward": -55.30775624279848,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 201,
+    "makespan": 14.0,
+    "reward": -53.65630203951712,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 202,
+    "makespan": 14.0,
+    "reward": -53.644665860726946,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 203,
+    "makespan": 15.0,
+    "reward": -55.515712668311295,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 204,
+    "makespan": 15.0,
+    "reward": -55.40400136881365,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 205,
+    "makespan": 15.0,
+    "reward": -55.05818986621466,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 206,
+    "makespan": 15.0,
+    "reward": -55.5182756767051,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 207,
+    "makespan": 15.0,
+    "reward": -55.45423822623624,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 208,
+    "makespan": 15.0,
+    "reward": -55.230465938744864,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 209,
+    "makespan": 14.0,
+    "reward": -53.42451809615218,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 210,
+    "makespan": 15.0,
+    "reward": -55.22645848435005,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 211,
+    "makespan": 15.0,
+    "reward": -55.47195865875634,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 212,
+    "makespan": 14.0,
+    "reward": -53.614080400358795,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 213,
+    "makespan": 15.0,
+    "reward": -55.5064604828534,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 214,
+    "makespan": 15.0,
+    "reward": -55.05046878511874,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 215,
+    "makespan": 15.0,
+    "reward": -55.33252507825944,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 216,
+    "makespan": 15.0,
+    "reward": -55.427829091020705,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 217,
+    "makespan": 15.0,
+    "reward": -55.4811363791328,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 218,
+    "makespan": 15.0,
+    "reward": -56.13971932188498,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 219,
+    "makespan": 15.0,
+    "reward": -55.628481479780184,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 220,
+    "makespan": 15.0,
+    "reward": -55.196960333072475,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 221,
+    "makespan": 15.0,
+    "reward": -55.25747147624632,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 222,
+    "makespan": 15.0,
+    "reward": -55.69458188390591,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 223,
+    "makespan": 15.0,
+    "reward": -55.11719701447427,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 224,
+    "makespan": 15.0,
+    "reward": -55.06757691053622,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 225,
+    "makespan": 14.0,
+    "reward": -53.88080307767978,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 226,
+    "makespan": 15.0,
+    "reward": -55.70620159047315,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 227,
+    "makespan": 15.0,
+    "reward": -54.71676516653692,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 228,
+    "makespan": 15.0,
+    "reward": -55.0265599406037,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 229,
+    "makespan": 14.0,
+    "reward": -54.21518800828737,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 230,
+    "makespan": 14.0,
+    "reward": -54.08835362362298,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 231,
+    "makespan": 15.0,
+    "reward": -55.090481656004954,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 232,
+    "makespan": 16.0,
+    "reward": -56.602500875373174,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 233,
+    "makespan": 15.0,
+    "reward": -54.95394030375705,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 234,
+    "makespan": 14.0,
+    "reward": -53.64054346888445,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 235,
+    "makespan": 14.0,
+    "reward": -53.81672555067897,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 236,
+    "makespan": 15.0,
+    "reward": -54.92955501295838,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 237,
+    "makespan": 14.0,
+    "reward": -53.356158772017466,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 238,
+    "makespan": 15.0,
+    "reward": -55.44342390538861,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 239,
+    "makespan": 15.0,
+    "reward": -55.11408622863872,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 240,
+    "makespan": 15.0,
+    "reward": -55.348392321658004,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 241,
+    "makespan": 16.0,
+    "reward": -56.78709772342714,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 242,
+    "makespan": 14.0,
+    "reward": -53.74914396499421,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 243,
+    "makespan": 15.0,
+    "reward": -55.369758494219006,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 244,
+    "makespan": 14.0,
+    "reward": -53.65182076298758,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 245,
+    "makespan": 15.0,
+    "reward": -54.88264793367044,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 246,
+    "makespan": 14.0,
+    "reward": -53.33593801863844,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 247,
+    "makespan": 15.0,
+    "reward": -55.25951854805773,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 248,
+    "makespan": 15.0,
+    "reward": -55.171303056557605,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 249,
+    "makespan": 15.0,
+    "reward": -55.30500784192419,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 250,
+    "makespan": 14.0,
+    "reward": -53.70674676564089,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 251,
+    "makespan": 15.0,
+    "reward": -54.485826905365585,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 252,
+    "makespan": 15.0,
+    "reward": -55.13240379350129,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 253,
+    "makespan": 15.0,
+    "reward": -54.913595005431404,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 254,
+    "makespan": 15.0,
+    "reward": -55.249245572358554,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 255,
+    "makespan": 15.0,
+    "reward": -55.506512665736196,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 256,
+    "makespan": 15.0,
+    "reward": -55.284630080372054,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 257,
+    "makespan": 15.0,
+    "reward": -55.56025473737361,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 258,
+    "makespan": 14.0,
+    "reward": -52.847056961884945,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 259,
+    "makespan": 15.0,
+    "reward": -54.994917471405884,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 260,
+    "makespan": 15.0,
+    "reward": -54.948011600076306,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 261,
+    "makespan": 14.0,
+    "reward": -53.53743495362812,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 262,
+    "makespan": 15.0,
+    "reward": -55.15632615259313,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 263,
+    "makespan": 14.0,
+    "reward": -53.27076609084597,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 264,
+    "makespan": 15.0,
+    "reward": -54.690625221095026,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 265,
+    "makespan": 15.0,
+    "reward": -55.4488287194689,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 266,
+    "makespan": 15.0,
+    "reward": -55.05150708161903,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 267,
+    "makespan": 15.0,
+    "reward": -54.99355232628716,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 268,
+    "makespan": 15.0,
+    "reward": -54.930312776912544,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 269,
+    "makespan": 15.0,
+    "reward": -54.78741346079348,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 270,
+    "makespan": 14.0,
+    "reward": -53.110485981850225,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 271,
+    "makespan": 15.0,
+    "reward": -55.050319786947014,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 272,
+    "makespan": 15.0,
+    "reward": -55.09384247498142,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 273,
+    "makespan": 15.0,
+    "reward": -54.77883763883991,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 274,
+    "makespan": 15.0,
+    "reward": -55.12169065273745,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 275,
+    "makespan": 15.0,
+    "reward": -54.837263464530146,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 276,
+    "makespan": 16.0,
+    "reward": -56.23562263162716,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 277,
+    "makespan": 14.0,
+    "reward": -53.394994286367414,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 278,
+    "makespan": 15.0,
+    "reward": -55.193066926421174,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 279,
+    "makespan": 15.0,
+    "reward": -55.271299441984766,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 280,
+    "makespan": 15.0,
+    "reward": -54.68741346079348,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 281,
+    "makespan": 16.0,
+    "reward": -55.97497708854668,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 282,
+    "makespan": 15.0,
+    "reward": -55.338419151104006,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 283,
+    "makespan": 14.0,
+    "reward": -53.31401932040904,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 284,
+    "makespan": 14.0,
+    "reward": -53.52819809392887,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 285,
+    "makespan": 15.0,
+    "reward": -55.33626457647167,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 286,
+    "makespan": 15.0,
+    "reward": -55.095388362920836,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 287,
+    "makespan": 14.0,
+    "reward": -53.70845655123927,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 288,
+    "makespan": 15.0,
+    "reward": -55.17565438487971,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 289,
+    "makespan": 14.0,
+    "reward": -53.1738871476504,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 290,
+    "makespan": 15.0,
+    "reward": -54.93444309905726,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 291,
+    "makespan": 15.0,
+    "reward": -55.48156005863574,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 292,
+    "makespan": 15.0,
+    "reward": -55.43242253462267,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 293,
+    "makespan": 15.0,
+    "reward": -54.95757580315147,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 294,
+    "makespan": 14.0,
+    "reward": -53.32851528300186,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 295,
+    "makespan": 15.0,
+    "reward": -55.33267653080746,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 296,
+    "makespan": 14.0,
+    "reward": -53.42698698504827,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 297,
+    "makespan": 15.0,
+    "reward": -55.0268733313757,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 298,
+    "makespan": 15.0,
+    "reward": -54.85530066823734,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 299,
+    "makespan": 15.0,
+    "reward": -55.06989247517017,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 300,
+    "makespan": 15.0,
+    "reward": -55.81619539741738,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 301,
+    "makespan": 15.0,
+    "reward": -55.650144208745715,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 302,
+    "makespan": 14.0,
+    "reward": -53.332552455510545,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 303,
+    "makespan": 15.0,
+    "reward": -55.12785261152682,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 304,
+    "makespan": 14.0,
+    "reward": -53.20077185705082,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 305,
+    "makespan": 14.0,
+    "reward": -53.10553738417385,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 306,
+    "makespan": 16.0,
+    "reward": -58.13693120738692,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 307,
+    "makespan": 14.0,
+    "reward": -53.499799773333315,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 308,
+    "makespan": 15.0,
+    "reward": -55.03222705055564,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 309,
+    "makespan": 14.0,
+    "reward": -53.36966237610059,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 310,
+    "makespan": 15.0,
+    "reward": -55.23131232898275,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 311,
+    "makespan": 15.0,
+    "reward": -55.1969270372302,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 312,
+    "makespan": 14.0,
+    "reward": -53.352655316901874,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 313,
+    "makespan": 15.0,
+    "reward": -55.047634673067584,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 314,
+    "makespan": 15.0,
+    "reward": -55.32999573324899,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 315,
+    "makespan": 15.0,
+    "reward": -55.03592867619664,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 316,
+    "makespan": 15.0,
+    "reward": -54.920038621651166,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 317,
+    "makespan": 15.0,
+    "reward": -55.21592425129277,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 318,
+    "makespan": 14.0,
+    "reward": -53.109212012248676,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 319,
+    "makespan": 14.0,
+    "reward": -53.499651845023834,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 320,
+    "makespan": 15.0,
+    "reward": -55.37667859938945,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 321,
+    "makespan": 14.0,
+    "reward": -53.32273636486428,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 322,
+    "makespan": 14.0,
+    "reward": -53.543879141273194,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 323,
+    "makespan": 15.0,
+    "reward": -55.68559174794377,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 324,
+    "makespan": 15.0,
+    "reward": -55.03498789651288,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 325,
+    "makespan": 15.0,
+    "reward": -55.00370686893332,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 326,
+    "makespan": 14.0,
+    "reward": -53.85915296015942,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 327,
+    "makespan": 14.0,
+    "reward": -53.37048460608647,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 328,
+    "makespan": 15.0,
+    "reward": -55.23039175219613,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 329,
+    "makespan": 14.0,
+    "reward": -53.949048945589496,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 330,
+    "makespan": 15.0,
+    "reward": -55.33112075577876,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 331,
+    "makespan": 14.0,
+    "reward": -53.232652376359404,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 332,
+    "makespan": 14.0,
+    "reward": -53.40761530668818,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 333,
+    "makespan": 15.0,
+    "reward": -55.152852154113916,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 334,
+    "makespan": 15.0,
+    "reward": -55.1615064312371,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 335,
+    "makespan": 14.0,
+    "reward": -53.62133646292738,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 336,
+    "makespan": 14.0,
+    "reward": -52.78069883763365,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 337,
+    "makespan": 14.0,
+    "reward": -53.08603390363698,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 338,
+    "makespan": 14.0,
+    "reward": -53.48435853727443,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 339,
+    "makespan": 15.0,
+    "reward": -54.95307994883871,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 340,
+    "makespan": 15.0,
+    "reward": -55.16451865195919,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 341,
+    "makespan": 15.0,
+    "reward": -55.0674022413061,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 342,
+    "makespan": 15.0,
+    "reward": -55.001678610893514,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 343,
+    "makespan": 15.0,
+    "reward": -55.21385893827749,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 344,
+    "makespan": 14.0,
+    "reward": -52.70591709040714,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 345,
+    "makespan": 14.0,
+    "reward": -53.409933617542826,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 346,
+    "makespan": 15.0,
+    "reward": -55.103749334028805,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 347,
+    "makespan": 15.0,
+    "reward": -54.99554570477339,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 348,
+    "makespan": 15.0,
+    "reward": -55.09749512456447,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 349,
+    "makespan": 15.0,
+    "reward": -55.235542768224576,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 350,
+    "makespan": 15.0,
+    "reward": -55.00098284227139,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 351,
+    "makespan": 15.0,
+    "reward": -54.750320477706516,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 352,
+    "makespan": 15.0,
+    "reward": -55.0400704904636,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 353,
+    "makespan": 15.0,
+    "reward": -55.15039332681507,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 354,
+    "makespan": 15.0,
+    "reward": -54.998537988215915,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 355,
+    "makespan": 14.0,
+    "reward": -53.220596299853625,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 356,
+    "makespan": 15.0,
+    "reward": -55.342272071351736,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 357,
+    "makespan": 15.0,
+    "reward": -54.90743560790799,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 358,
+    "makespan": 15.0,
+    "reward": -55.07374223507066,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 359,
+    "makespan": 15.0,
+    "reward": -54.80998912237972,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 360,
+    "makespan": 15.0,
+    "reward": -54.81227492646498,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 361,
+    "makespan": 14.0,
+    "reward": -53.478705061022374,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 362,
+    "makespan": 14.0,
+    "reward": -53.36479336614114,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 363,
+    "makespan": 15.0,
+    "reward": -55.06178725928845,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 364,
+    "makespan": 15.0,
+    "reward": -54.907435607907985,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 365,
+    "makespan": 14.0,
+    "reward": -53.26673260078026,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 366,
+    "makespan": 14.0,
+    "reward": -53.62466837788248,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 367,
+    "makespan": 15.0,
+    "reward": -54.84486095230587,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 368,
+    "makespan": 14.0,
+    "reward": -53.05937064072024,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 369,
+    "makespan": 15.0,
+    "reward": -54.78741346079348,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 370,
+    "makespan": 14.0,
+    "reward": -53.20077185705082,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 371,
+    "makespan": 15.0,
+    "reward": -55.323237012102574,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 372,
+    "makespan": 15.0,
+    "reward": -54.873336176915096,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 373,
+    "makespan": 14.0,
+    "reward": -53.536527672128784,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 374,
+    "makespan": 14.0,
+    "reward": -53.28541091227421,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 375,
+    "makespan": 14.0,
+    "reward": -53.081718928811775,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 376,
+    "makespan": 14.0,
+    "reward": -53.25306829015755,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 377,
+    "makespan": 15.0,
+    "reward": -54.90203602376296,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 378,
+    "makespan": 14.0,
+    "reward": -53.46692417066361,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 379,
+    "makespan": 14.0,
+    "reward": -53.60281053824234,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 380,
+    "makespan": 14.0,
+    "reward": -53.346137818423955,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 381,
+    "makespan": 15.0,
+    "reward": -54.66053745814038,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 382,
+    "makespan": 15.0,
+    "reward": -55.04860374650583,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 383,
+    "makespan": 15.0,
+    "reward": -55.09549698299226,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 384,
+    "makespan": 15.0,
+    "reward": -54.91428946344658,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 385,
+    "makespan": 15.0,
+    "reward": -55.09723589082094,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 386,
+    "makespan": 15.0,
+    "reward": -55.21209917353819,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 387,
+    "makespan": 15.0,
+    "reward": -55.24247318550703,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 388,
+    "makespan": 15.0,
+    "reward": -55.12652521270229,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 389,
+    "makespan": 15.0,
+    "reward": -54.664157974950406,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 390,
+    "makespan": 15.0,
+    "reward": -54.84097395575975,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 391,
+    "makespan": 15.0,
+    "reward": -55.12727758897674,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 392,
+    "makespan": 15.0,
+    "reward": -54.80831673874176,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 393,
+    "makespan": 15.0,
+    "reward": -55.09777108674351,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 394,
+    "makespan": 15.0,
+    "reward": -54.814157974950405,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 395,
+    "makespan": 14.0,
+    "reward": -53.36484893580901,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 396,
+    "makespan": 14.0,
+    "reward": -52.8034466719601,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 397,
+    "makespan": 14.0,
+    "reward": -53.57689695160525,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 398,
+    "makespan": 14.0,
+    "reward": -52.96090526957812,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 399,
+    "makespan": 14.0,
+    "reward": -53.08233600959557,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 400,
+    "makespan": 15.0,
+    "reward": -55.07667520896562,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 401,
+    "makespan": 15.0,
+    "reward": -55.00628338952842,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 402,
+    "makespan": 14.0,
+    "reward": -53.28472129178037,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 403,
+    "makespan": 14.0,
+    "reward": -53.78450830561114,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 404,
+    "makespan": 15.0,
+    "reward": -54.8506040924784,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 405,
+    "makespan": 14.0,
+    "reward": -53.224219942723515,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 406,
+    "makespan": 15.0,
+    "reward": -55.040000402012645,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 407,
+    "makespan": 15.0,
+    "reward": -55.19833940721028,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 408,
+    "makespan": 14.0,
+    "reward": -53.60000192886295,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 409,
+    "makespan": 15.0,
+    "reward": -55.00141739125177,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 410,
+    "makespan": 15.0,
+    "reward": -54.91165577079229,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 411,
+    "makespan": 14.0,
+    "reward": -53.16054879986233,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 412,
+    "makespan": 15.0,
+    "reward": -54.81958236389457,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 413,
+    "makespan": 15.0,
+    "reward": -54.85008069107202,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 414,
+    "makespan": 15.0,
+    "reward": -55.291674331657475,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 415,
+    "makespan": 15.0,
+    "reward": -55.12092485696701,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 416,
+    "makespan": 15.0,
+    "reward": -54.87081078239911,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 417,
+    "makespan": 15.0,
+    "reward": -54.95576322427003,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 418,
+    "makespan": 15.0,
+    "reward": -54.958035910690406,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 419,
+    "makespan": 15.0,
+    "reward": -54.660537458140375,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 420,
+    "makespan": 14.0,
+    "reward": -53.32977969417266,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 421,
+    "makespan": 15.0,
+    "reward": -54.90933415830305,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 422,
+    "makespan": 15.0,
+    "reward": -54.90403081878831,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 423,
+    "makespan": 14.0,
+    "reward": -53.8067802269709,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 424,
+    "makespan": 14.0,
+    "reward": -53.08770628727495,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 425,
+    "makespan": 14.0,
+    "reward": -53.263041394786256,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 426,
+    "makespan": 15.0,
+    "reward": -54.791165466099685,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 427,
+    "makespan": 15.0,
+    "reward": -55.128275326029055,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 428,
+    "makespan": 15.0,
+    "reward": -54.887702767978205,
+    "epsilon": 0.01
+  },
+  {
+    "episode": 429,
+    "makespan": 15.0,
+    "reward": -55.09982659279658,
+    "epsilon": 0.01
+  }
+]

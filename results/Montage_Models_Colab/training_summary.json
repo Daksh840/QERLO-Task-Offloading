@@ -1,0 +1,98 @@
+[
+  {
+    "dag": "Montage_100.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 477,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_final.pth"
+  },
+  {
+    "dag": "Montage_1000.gml",
+    "best_makespan": 132.0,
+    "episodes_trained": 501,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_final.pth"
+  },
+  {
+    "dag": "Montage_1000_0.gml",
+    "best_makespan": 133.0,
+    "episodes_trained": 908,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_0_final.pth"
+  },
+  {
+    "dag": "Montage_1000_1.gml",
+    "best_makespan": 133.0,
+    "episodes_trained": 717,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_1_final.pth"
+  },
+  {
+    "dag": "Montage_1000_2.gml",
+    "best_makespan": 135.0,
+    "episodes_trained": 428,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_2_final.pth"
+  },
+  {
+    "dag": "Montage_1000_3.gml",
+    "best_makespan": 134.0,
+    "episodes_trained": 523,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_3_final.pth"
+  },
+  {
+    "dag": "Montage_1000_4.gml",
+    "best_makespan": 138.0,
+    "episodes_trained": 422,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_4_final.pth"
+  },
+  {
+    "dag": "Montage_1000_5.gml",
+    "best_makespan": 132.0,
+    "episodes_trained": 655,
+    "model_path": "results\\Montage_Models_Colab\\Montage_1000_5_final.pth"
+  },
+  {
+    "dag": "Montage_100_0.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 471,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_0_final.pth"
+  },
+  {
+    "dag": "Montage_100_1.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 493,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_1_final.pth"
+  },
+  {
+    "dag": "Montage_100_2.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 588,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_2_final.pth"
+  },
+  {
+    "dag": "Montage_100_3.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 594,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_3_final.pth"
+  },
+  {
+    "dag": "Montage_100_4.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 531,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_4_final.pth"
+  },
+  {
+    "dag": "Montage_100_5.gml",
+    "best_makespan": 18.0,
+    "episodes_trained": 552,
+    "model_path": "results\\Montage_Models_Colab\\Montage_100_5_final.pth"
+  },
+  {
+    "dag": "Montage_25.gml",
+    "best_makespan": 9.0,
+    "episodes_trained": 462,
+    "model_path": "results\\Montage_Models_Colab\\Montage_25_final.pth"
+  },
+  {
+    "dag": "Montage_50.gml",
+    "best_makespan": 12.0,
+    "episodes_trained": 449,
+    "model_path": "results\\Montage_Models_Colab\\Montage_50_final.pth"
+  }
+]

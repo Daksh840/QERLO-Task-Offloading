@@ -1,0 +1,80 @@
+[
+  {
+    "dag": "Sipht_100.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 845,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_final.pth"
+  },
+  {
+    "dag": "Sipht_1000.gml",
+    "best_makespan": 125.0,
+    "episodes_trained": 523,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_1000_final.pth"
+  },
+  {
+    "dag": "Sipht_100_0.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 866,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_0_final.pth"
+  },
+  {
+    "dag": "Sipht_100_1.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 824,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_1_final.pth"
+  },
+  {
+    "dag": "Sipht_100_2.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 606,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_2_final.pth"
+  },
+  {
+    "dag": "Sipht_100_3.gml",
+    "best_makespan": 14.0,
+    "episodes_trained": 458,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_3_final.pth"
+  },
+  {
+    "dag": "Sipht_100_4.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 688,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_4_final.pth"
+  },
+  {
+    "dag": "Sipht_100_6.gml",
+    "best_makespan": 14.0,
+    "episodes_trained": 429,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_6_final.pth"
+  },
+  {
+    "dag": "Sipht_100_7.gml",
+    "best_makespan": 14.0,
+    "episodes_trained": 446,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_7_final.pth"
+  },
+  {
+    "dag": "Sipht_100_8.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 845,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_8_final.pth"
+  },
+  {
+    "dag": "Sipht_100_9.gml",
+    "best_makespan": 14.0,
+    "episodes_trained": 463,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_100_9_final.pth"
+  },
+  {
+    "dag": "Sipht_30.gml",
+    "best_makespan": 7.0,
+    "episodes_trained": 428,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_30_final.pth"
+  },
+  {
+    "dag": "Sipht_60.gml",
+    "best_makespan": 10.0,
+    "episodes_trained": 431,
+    "model_path": "results\\SIPHT_Models_Colab\\Sipht_60_final.pth"
+  }
+]

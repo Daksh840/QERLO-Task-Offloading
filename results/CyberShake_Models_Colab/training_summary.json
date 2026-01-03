@@ -1,0 +1,26 @@
+[
+  {
+    "dag": "CyberShake_100.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 432,
+    "model_path": "results\\CyberShake_Models_Colab\\CyberShake_100_final.pth"
+  },
+  {
+    "dag": "CyberShake_1000.gml",
+    "best_makespan": 127.0,
+    "episodes_trained": 647,
+    "model_path": "results\\CyberShake_Models_Colab\\CyberShake_1000_final.pth"
+  },
+  {
+    "dag": "CyberShake_30.gml",
+    "best_makespan": 5.0,
+    "episodes_trained": 447,
+    "model_path": "results\\CyberShake_Models_Colab\\CyberShake_30_final.pth"
+  },
+  {
+    "dag": "CyberShake_50.gml",
+    "best_makespan": 7.0,
+    "episodes_trained": 441,
+    "model_path": "results\\CyberShake_Models_Colab\\CyberShake_50_final.pth"
+  }
+]

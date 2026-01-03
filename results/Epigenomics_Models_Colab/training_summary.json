@@ -1,0 +1,26 @@
+[
+  {
+    "dag": "Epigenomics_100.gml",
+    "best_makespan": 16.0,
+    "episodes_trained": 478,
+    "model_path": "results\\Epigenomics_Models_Colab\\Epigenomics_100_final.pth"
+  },
+  {
+    "dag": "Epigenomics_24.gml",
+    "best_makespan": 8.0,
+    "episodes_trained": 472,
+    "model_path": "results\\Epigenomics_Models_Colab\\Epigenomics_24_final.pth"
+  },
+  {
+    "dag": "Epigenomics_46.gml",
+    "best_makespan": 10.0,
+    "episodes_trained": 509,
+    "model_path": "results\\Epigenomics_Models_Colab\\Epigenomics_46_final.pth"
+  },
+  {
+    "dag": "Epigenomics_997.gml",
+    "best_makespan": 130.0,
+    "episodes_trained": 408,
+    "model_path": "results\\Epigenomics_Models_Colab\\Epigenomics_997_final.pth"
+  }
+]

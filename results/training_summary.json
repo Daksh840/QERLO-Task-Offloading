@@ -1,0 +1,30 @@
+[
+  {
+    "dag": "CyberShake_100.gml",
+    "best_makespan": 13.0,
+    "episodes_trained": 511,
+    "final_epsilon": 0.01,
+    "model_path": "results/CyberShake_Models_Colab/CyberShake_100_final.pth"
+  },
+  {
+    "dag": "CyberShake_1000.gml",
+    "best_makespan": 127.0,
+    "episodes_trained": 575,
+    "final_epsilon": 0.01,
+    "model_path": "results/CyberShake_Models_Colab/CyberShake_1000_final.pth"
+  },
+  {
+    "dag": "CyberShake_30.gml",
+    "best_makespan": 5.0,
+    "episodes_trained": 501,
+    "final_epsilon": 0.01,
+    "model_path": "results/CyberShake_Models_Colab/CyberShake_30_final.pth"
+  },
+  {
+    "dag": "CyberShake_50.gml",
+    "best_makespan": 7.0,
+    "episodes_trained": 536,
+    "final_epsilon": 0.01,
+    "model_path": "results/CyberShake_Models_Colab/CyberShake_50_final.pth"
+  }
+]

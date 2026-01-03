@@ -1,0 +1,26 @@
+[
+  {
+    "dag": "Inspiral_100.gml",
+    "best_makespan": 14.0,
+    "episodes_trained": 437,
+    "model_path": "results\\Inspiral_Models_Colab\\Inspiral_100_final.pth"
+  },
+  {
+    "dag": "Inspiral_1000.gml",
+    "best_makespan": 127.0,
+    "episodes_trained": 494,
+    "model_path": "results\\Inspiral_Models_Colab\\Inspiral_1000_final.pth"
+  },
+  {
+    "dag": "Inspiral_30.gml",
+    "best_makespan": 6.0,
+    "episodes_trained": 512,
+    "model_path": "results\\Inspiral_Models_Colab\\Inspiral_30_final.pth"
+  },
+  {
+    "dag": "Inspiral_50.gml",
+    "best_makespan": 8.0,
+    "episodes_trained": 517,
+    "model_path": "results\\Inspiral_Models_Colab\\Inspiral_50_final.pth"
+  }
+]
