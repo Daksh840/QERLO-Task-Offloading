@@ -280,18 +280,190 @@ Where:
    - **For each node:** Compute Earliest Finish Time (EFT)
    - **Assign task** to the node with minimum EFT
 
-#### ⚖️ HEFT vs QIPSO vs DQN
+---
 
-| Aspect | HEFT | QIPSO | DQN |
-|--------|------|-------|-----|
-| **Approach** | Greedy | Population-based | Learning-based |
-| **Time Complexity** | O(T²·N) | O(I·P·T·N) | O(E·T) |
-| **Solution Quality** | Good | Better | Best (after training) |
-| **Runtime** | <1s | ~10-60s | <1s (inference) |
-| **Training Required** | No | No | Yes (hours) |
-| **Adaptability** | Fixed | Fixed | High |
+### 4. FCFS (First-Come First-Serve)
+**The Naive Baseline.** Located in `src/algorithms/First_come_first_server.py`.
 
-Where: T=tasks, N=nodes, I=iterations, P=particles, E=episodes
+#### 🎯 How It Works
+The simplest possible approach:
+1. Process tasks in **topological order** (respecting dependencies)
+2. For each task, assign it to the **first available node**
+3. No optimization - purely sequential
+
+**Purpose:** Serves as the "worst-case" baseline to demonstrate improvement of other algorithms.
+
+---
+
+### 5. MOHEFT (Multi-Objective HEFT)
+**Energy-Aware Extension of HEFT.** Located in `src/algorithms/moheft.py`.
+
+#### 🎯 Multi-Objective Optimization
+Unlike standard HEFT (which only minimizes makespan), MOHEFT considers both objectives:
+
+**Scoring Function:**
+```python
+score = weight_makespan * finish_time + weight_energy * energy_consumption
+```
+
+**Algorithm:**
+1. Process tasks in dependency order (no upward rank)
+2. For each task and node combination:
+   - Compute estimated finish time
+   - Compute energy cost: `exec_time × power[node]`
+   - Calculate weighted score
+3. Assign task to node with **minimum weighted score**
+
+**Use Case:** When you have a specific makespan/energy tradeoff preference.
+
+---
+
+### 6. HCOCP (Heuristic Cost-Oriented Critical Path)
+**Critical-Path + Cost Optimization.** Located in `src/algorithms/hcocp.py`.
+
+#### 🔍 Key Innovation
+Combines HEFT's critical path concept with cost awareness:
+
+**Algorithm:**
+1. **Compute Critical Path Lengths** for all tasks:
+   ```python
+   longest_path[task] = max(longest_path[pred] + duration[pred])
+   ```
+
+2. **Prioritize by Critical Path:** Process tasks with longest remaining path first
+
+3. **Cost-Aware Assignment:** For each task, choose node by:
+   ```python
+   cost = finish_time + 0.5 * energy
+   ```
+
+**Advantage:** Ensures critical tasks get priority while still considering energy cost.
+
+---
+
+### 7. PSO (Classical Particle Swarm Optimization)
+**The Traditional Swarm Algorithm.** Located in `src/algorithms/pso_scheduler.py`.
+
+#### 🐦 How PSO Works
+Based on bird flocking behavior:
+
+1. **Representation:** Each particle is a vector `[node_for_task_0, node_for_task_1, ...]`
+
+2. **Initialization:** Random node assignments for each particle
+
+3. **Evaluation:** Decode each particle into a schedule, compute fitness
+
+4. **Update Velocity:**
+   ```python
+   v[i] = w·v[i] + c1·r1·(pbest[i] - x[i]) + c2·r2·(gbest - x[i])
+   ```
+
+5. **Update Position:**
+   ```python
+   x[i] = round(x[i] + v[i])  # Round to integer node IDs
+   ```
+
+6. **Iterate** for max_iter iterations
+
+**Limitation:** Uses **definite positions** (not probabilistic like QIPSO), making it more prone to premature convergence.
+
+---
+
+### 8. GA (Genetic Algorithm)
+**Evolution-Based Optimization.** Located in `src/algorithms/ga_scheduler.py`.
+
+#### 🧬 Genetic Operators
+
+**1. Representation (Chromosome):**
+```python
+individual = [2, 5, 1, 3, ...]  # Node assignment for each task
+```
+
+**2. Selection (Tournament):**
+- Sort population by fitness
+- Select top-2 individuals as parents
+
+**3. Crossover (Single-Point):**
+```python
+child = parent1[:crossover_point] + parent2[crossover_point:]
+```
+
+**4. Mutation:**
+```python
+if random() < mutation_rate:
+    individual[random_index] = random_node()
+```
+
+**5. Evolution Loop:**
+```
+FOR each generation:
+    Evaluate all individuals
+    Select parents
+    Create offspring via crossover + mutation
+    Replace population
+```
+
+**Strength:** Crossover can combine good "building blocks" from different solutions.
+
+**Limitation:** Discrete representation makes it hard to fine-tune solutions.
+
+---
+
+#### ⚖️ Complete Algorithm Comparison
+
+This project implements **8 different scheduling algorithms**. Here's a comprehensive comparison:
+
+**1. Algorithm Categories:**
+
+| Algorithm | Type | Approach | Key Strength |
+|-----------|------|----------|--------------|
+| **FCFS** | Heuristic | Naive Sequential | Simplicity (baseline) |
+| **HEFT** | Heuristic | Rank-based Greedy | Fast, good quality |
+| **MOHEFT** | Heuristic | Multi-objective Greedy | Balanced makespan/energy |
+| **HCOCP** | Heuristic | Critical-path Aware | Cost-oriented |
+| **PSO** | Metaheuristic | Swarm Intelligence | Population diversity |
+| **GA** | Metaheuristic | Evolutionary | Crossover exploration |
+| **QIPSO** | Metaheuristic | Quantum-inspired Swarm | Superposition states |
+| **DQN** | Machine Learning | Deep Reinforcement Learning | Pattern learning |
+
+**2. Performance Characteristics:**
+
+| Algorithm | Time Complexity | Typical Runtime | Solution Quality | Training Needed |
+|-----------|----------------|-----------------|------------------|-----------------|
+| **FCFS** | O(T·N) | <0.1s | Poor | No |
+| **HEFT** | O(T²·N) | <1s | Good (70-80%) | No |
+| **MOHEFT** | O(T²·N) | <2s | Good (75-82%) | No |
+| **HCOCP** | O(T²·N·log T) | <2s | Good (72-85%) | No |
+| **PSO** | O(I·P·T·N) | ~15-40s | Better (80-90%) | No |
+| **GA** | O(G·P·T·N) | ~20-50s | Better (78-88%) | No |
+| **QIPSO** | O(I·P·T·N) | ~10-60s | **Best** (85-95%) | No |
+| **DQN** | O(E·T) | <1s (inference) | Best (90-96%) | **Yes (hours)** |
+
+Where: T=tasks, N=nodes, I/G=iterations/generations, P=population, E=episodes
+
+**3. Optimization Focus:**
+
+| Algorithm | Makespan Focus | Energy Focus | Multi-Objective | Adaptability |
+|-----------|----------------|--------------|-----------------|--------------|
+| **FCFS** | None | None | No | None |
+| **HEFT** | ✓✓✓ | ✓ | No | Fixed |
+| **MOHEFT** | ✓✓ | ✓✓ | **Yes** (weighted) | Fixed |
+| **HCOCP** | ✓✓ | ✓✓ | **Yes** (cost-based) | Fixed |
+| **PSO** | ✓✓ | ✓ | Implicit | Low |
+| **GA** | ✓✓ | ✓ | Implicit | Medium |
+| **QIPSO** | ✓✓✓ | ✓✓ | Implicit | Medium |
+| **DQN** | ✓✓✓ | ✓✓✓ | **Yes** (reward-based) | **High** |
+
+**4. When to Use Each:**
+
+- **FCFS:** Only for baseline comparison (never for production)
+- **HEFT:** Need fast results with decent quality, no time for optimization
+- **MOHEFT:** Explicitly balancing makespan and energy with custom weights
+- **HCOCP:** Cost-sensitive scenarios with budget constraints
+- **PSO:** Moderate complexity, want better solution than HEFT, time not critical
+- **GA:** Discrete search spaces, when crossover might discover novel patterns
+- **QIPSO:** **Best choice** for offline optimization when runtime is acceptable
+- **DQN:** Have training data, need real-time inference, workflows follow patterns
 
 ---
 
