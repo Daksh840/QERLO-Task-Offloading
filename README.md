@@ -40,7 +40,7 @@ The project follows a rigorous simulation pipeline:
 
 ---
 
-## 🧠 algorithmic Deep Dive
+## 🧠 Algorithmic Deep Dive
 
 ### 1. QIPSO (Quantum-Inspired Particle Swarm Optimization)
 **The Star of the Show.** This algorithm outperforms others by using concepts from Quantum Computing to explore the search space more effectively.
